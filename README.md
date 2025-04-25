@@ -1,7 +1,8 @@
 # IoT-Based Smart Furnace Controller for Inconel 718 Heat Treatment
 
-![Project Banner](path/to/your/image.jpg)  
+![Project Banner](Project_pic1.jpg)  
 <!-- Replace with actual path or URL, e.g., /images/furnace.jpg or https://i.imgur.com/example.jpg -->
+![Project Banner](Project_pic2.jpg)
 
 This project integrates an IoT-based monitoring and control system into a heat treatment furnace used for processing 3D-printed Inconel 718. The goal is to enhance process control, reduce energy usage, and enable remote monitoring and automation.
 
